@@ -9,6 +9,7 @@ print ('Hello Word')
 # Enemy choisi capacitée aleatoire
 #la vittesse influe sur l'ordre d'apparition du text
 
+
 capacite=str(input("Les capacité:\n capacitée1 \n capacitée2 \n capacitée3 \n capacitée4 \n capacitée5 \n capacitée6:"))
 
 
