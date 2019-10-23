@@ -14,12 +14,6 @@ capacite=str(input("Les capacité:\n capacitée1 \n capacitée2 \n capacitée3 \
 
 
 
-
-
-
-
-
-
 '''
 class Joueur: #Joueur1
     def __init__(self)
